@@ -1,0 +1,2 @@
+# springcloud2-config
+这个仓库是用来管理Springcloud项目中order项目的配置文件
