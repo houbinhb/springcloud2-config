@@ -1,5 +1,5 @@
 server:
-    port: 8100
+    port: 8101
 eureka:
     instance:
         instance-id: order-api-8100
